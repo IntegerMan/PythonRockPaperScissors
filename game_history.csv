@@ -13,3 +13,5 @@ paper,player,paper,ai,scissors
 scissors,tie,paper,player,paper
 paper,ai,scissors,tie,scissors
 ,,,,scissors
+,,,,scissors
+scissors,ai,,,rock
