@@ -16,3 +16,4 @@ paper,ai,scissors,tie,scissors
 ,,,,scissors
 scissors,ai,,,rock
 rock,tie,scissors,ai,scissors
+scissors,ai,paper,ai,rock
